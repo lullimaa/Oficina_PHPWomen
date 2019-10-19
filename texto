@@ -1,0 +1,28 @@
+foreach (é utilizado para array)
+Sintaxe: 
+
+$frutas = ["maça","laranja", "melancia"]
+foreach($frutas as $frutas){
+	echo "A fruta é" . $frutas."<br>"
+}
+
+
+var_dump () #mostra o conteudo q foi passado. (passa tipo e posição)_
+
+
+
+classes: catálogo de prod.
+
+- identificar os objetos, tipos de cclasse. / cada produto é um objeto, mas tdos são produtos "sao a classe"
+
+descrição/propriedade/variavel(atributo)
+metodos = funçao
+variavel = atributo
+
+entidade = classe
+
+GET = pegar obter (o valor)
+SET = definir a descriçao
+
+
+MVC: M=model(categoria e produto) / V=view(html index) / C= Controller(onde faz a lógica, cahama view)
